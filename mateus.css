@@ -1,0 +1,42 @@
+*{margin: 0%;}
+.cab{
+background-image: -moz-linear-gradient(rgb(219, 0, 0),rgb(0, 0, 0));
+display: flex;
+justify-content: space-between;
+}
+
+.logo1{
+width: 375px;
+}
+
+.listra{
+background-color: black;
+color: white;
+display: flex;
+justify-content: space-around;
+}
+
+.produtos2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.produtos1{
+    width: 23%;
+}
+
+.camisetas{
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+    padding: 1%;
+}
+
+.botão{
+color: white;
+}
+
+
+
+
+

@@ -1,0 +1,45 @@
+*{margin: 0%;}
+.cab{
+background-image: -moz-linear-gradient(rgb(98, 200, 235),white);
+display: flex;
+justify-content: space-between;
+}
+
+.logo1{
+width: 375px;
+}
+
+.listra{
+background-color: rgb(255, 255, 255);
+color: white;
+display: flex;
+}
+.bloco{
+    text-align: center;
+   margin-left: 12%; 
+}
+
+.produtos1{
+    width: 300px;
+    height: 300px;
+}
+
+.botão{
+color: black;
+background-color: rgb(98, 200, 235) ;
+border-radius: 10px;
+border-bottom: 10px;
+}
+.camisetas{
+    text-align: center;
+}
+    
+.botaozao{
+    font-size: 200%;
+    text-align: center;
+    }
+    
+
+
+
+
